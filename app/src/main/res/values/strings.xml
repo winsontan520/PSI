@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PSI</string>
+
+    <string name="google_maps_api_key">AIzaSyAzRx5tlpohacUCiUEKhK_eDRMO8tUHysA</string>
+    <string name="alert_dialog_title">Ops…</string>
+    <string name="alert_dialog_message">Something wrong… would you try again?</string>
+</resources>
